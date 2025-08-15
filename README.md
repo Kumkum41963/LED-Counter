@@ -70,23 +70,21 @@ This means:
 | LED12 | P2.4  | Row 4, Column 3             |
 
 **Schematic Diagram:**  
-*(Insert your schematic image here)*  
-![Schematic](images/schematic.png)
+![Schematic](Counter_Schematic.png)
 
 ---
 
 ## 📷 Images
 ### Breadboard Prototype
-![Breadboard Setup](images/setup.jpg)
+![Breadboard Setup](Counter_Breadboard.jpg)
 
-### Working Prototype
-![Working Prototype](images/working.jpg)
+### LED Display
+![LED Display](Counter_Display.png)
 
 ---
 
-## 🎥 Videos
-- [![Demo Video](images/video-thumbnail.jpg)](videos/demo.mp4)  
-  *(Click to watch the counter in action)*
+## 🎥 Video Demo
+[▶ Watch the Demo](Counter_Demo.mp4)
 
 ---
 
