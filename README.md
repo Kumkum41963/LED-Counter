@@ -84,7 +84,7 @@ This means:
 ---
 
 ## 🎥 Video Demo
-[▶ Watch the Demo](Counter_Demo.mp4)
+[▶ Watch the Demo Video on Google Drive](https://drive.google.com/file/d/18hk5LdeibKrLbNs9CSVs4PtyMj-ImLJP/view?usp=sharing)
 
 ---
 
