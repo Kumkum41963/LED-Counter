@@ -54,20 +54,20 @@ This means:
 
 ## 🔌 Hardware Connections & Schematic
 
-| LED   | Pin   | Description                |
-|-------|-------|----------------------------|
-| LED1  | P1.1  | Row 1, Column 1             |
-| LED2  | P1.2  | Row 1, Column 2             |
-| LED3  | P1.3  | Row 1, Column 3             |
-| LED4  | P1.4  | Row 2, Column 1             |
-| LED5  | P1.5  | Row 2, Column 2             |
-| LED6  | P1.6  | Row 2, Column 3             |
-| LED7  | P1.7  | Row 3, Column 1             |
-| LED8  | P2.0  | Row 3, Column 2             |
-| LED9  | P2.1  | Row 3, Column 3             |
-| LED10 | P2.2  | Row 4, Column 1             |
-| LED11 | P2.3  | Row 4, Column 2             |
-| LED12 | P2.4  | Row 4, Column 3             |
+| LED   | Pin   | Description         |
+|-------|-------|---------------------|
+| LED1  | P0.0  | Row 1, Column 1     |
+| LED2  | P0.1  | Row 1, Column 2     |
+| LED3  | P0.2  | Row 1, Column 3     |
+| LED4  | P0.4  | Row 2, Column 1     |
+| LED5  | P0.5  | Row 2, Column 2     |
+| LED6  | P0.6  | Row 2, Column 3     |
+| LED7  | P2.0  | Row 3, Column 1     |
+| LED8  | P2.1  | Row 3, Column 2     |
+| LED9  | P2.2  | Row 3, Column 3     |
+| LED10 | P2.4  | Row 4, Column 1     |
+| LED11 | P2.5  | Row 4, Column 2     |
+| LED12 | P2.6  | Row 4, Column 3     |
 
 **Schematic Diagram:**  
 ![Schematic](Counter_Schematic.png)
